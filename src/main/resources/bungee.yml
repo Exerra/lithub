@@ -1,0 +1,4 @@
+name: Lithub
+version: '${project.version}'
+main: me.jez.lithub.Lithub
+description: Custom made /hub and /lobby plugin

@@ -1,0 +1,8 @@
+hub: 'default' # sets hub to default server
+alreadyInHub: You are already connected to this server!
+disabledServersError: You can't do /hub here
+
+disabled-servers: []
+
+# IF YOU TOUCH THIS I WILL MUDERE YOU
+config-version: 2
